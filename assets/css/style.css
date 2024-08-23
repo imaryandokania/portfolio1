@@ -958,6 +958,18 @@ main {
    font-weight: var(--fw-300);
    line-height: 1.6;
 }
+.blog-banner-box1 {
+   /* height: 50%;*/
+   width: 700px; 
+   border-radius: 12px;
+   overflow: hidden;
+}
+.blog-banner-box1 img {
+   height: 100%;
+   width: 100%;
+   object-fit: cover;
+   /* transition: var(--transition-1); */
+}
 /*-----------------------------------*\ #CONTACT \*-----------------------------------*/
 .mapbox {
    position: relative;
