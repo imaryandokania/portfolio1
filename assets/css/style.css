@@ -1509,7 +1509,7 @@ textarea.form-input::-webkit-resizer {
   }
   /** * MAIN */
    main {
-       max-width: 1400px;
+       max-width: 1200px;
        margin-inline: auto;
        display: flex;
        justify-content: center;
@@ -1517,8 +1517,8 @@ textarea.form-input::-webkit-resizer {
        gap: 25px;
   }
    .main-content {
-       min-width: 90%;
-       width: 90%;
+       min-width: 75%;
+       width: 75%;
        margin: 0;
   }
   /** * SIDEBAR */
