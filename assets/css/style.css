@@ -632,7 +632,7 @@ main {
    scroll-padding-inline: 25px;
 }
 .clients-item {
-   min-width: 50%;
+   min-width: 10%;
    scroll-snap-align: start;
 }
 .clients-item img {
